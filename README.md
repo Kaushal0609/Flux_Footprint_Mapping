@@ -74,7 +74,7 @@ A flux footprint, also known as an atmospheric flux footprint, represents the up
 ---
 
 ## Contributors
-- [Sanket Gondaliya] (@Sanket Gondaliya)
+- [Sanket Gondaliya](https://github.com/Sanketgondaliya)
 - [Darshan Gajera](https://github.com/Darshan5G)
 - [Kaushal Kathiriya](https://github.com/Kaushal0609)
 
